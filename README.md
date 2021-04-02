@@ -2,6 +2,8 @@
 
 - 🌱 I am currently completing my final year as a computer science student at ESILV (french engineering school) specialising in Data science and AI and at EMLV (french business school) specialising in Corporate Finance
 - 🔭 I’m also a Data Engineer Intern at Generali
+- 📫 How to reach me: theophile.puiseux@edu.devinci.fr
+
 
 <!--
 **Magnum35puc/Magnum35puc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

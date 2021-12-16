@@ -1,8 +1,4 @@
-### Hi there 👋,
-
-- 🌱 I am currently completing my final year as a computer science student at ESILV (french engineering school) specialising in Data science and AI and at EMLV (french business school) specialising in Corporate Finance
-- 🔭 I’m also a Data Engineer Intern at Generali
-- 📫 How to reach me: 
+### Hi there 👋
 
 
 <!--

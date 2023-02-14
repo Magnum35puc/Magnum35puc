@@ -1,16 +1,11 @@
-### Hi there 👋
+<h2> Hi, I'm Theo 👋</h2>
+<p><em>I am a Market Data Engineer in a trading company. 
+</em></p>
 
+[![Twitter: Magnum35puc](https://img.shields.io/twitter/follow/Magnum35puc?style=social)](https://twitter.com/Magnum35Puc)
+[![GitHub Magnum35puc](https://img.shields.io/github/followers/Magnum35puc?label=follow&style=social)](https://github.com/Magnum35puc)
 
-<!--
-**Magnum35puc/Magnum35puc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Magnum35puc&hide=TeX&layout=compact&exclude_repo=NLP-TALN,Movie_Recommendation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
